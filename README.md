@@ -1,2 +1,2 @@
 # SENSORS
-Arduino-based Temperature Monitoring System using LM35 Sensor for real-time temperature measurement and monitoring.
+An Arduino-based temperature monitoring system using an LM35 sensor to measure and display real-time ambient temperature readings through the Serial Monitor.
