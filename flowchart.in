@@ -1,0 +1,15 @@
+Start
+|
+Initialize Arduino
+|
+Read LM35 Sensor
+|
+Convert ADC to Voltage
+|
+Calculate Temperature
+|
+Display Temperature
+|
+Delay 1 Second
+|
+Repeat
